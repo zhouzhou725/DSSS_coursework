@@ -1,0 +1,41 @@
+Borough,2024 Q3,2023 Q3,Change
+Camden,6.3,4.3,2
+City of London,NA,NA,NA
+Hackney,4.8,4.1,0.7
+Hammersmith and Fulham,5.2,4.8,0.4
+Haringey,5.8,4.3,1.5
+Islington,5.7,4.4,1.3
+Kensington and Chelsea,6,4.9,1.1
+Lambeth,5.3,3.8,1.5
+Lewisham,5.2,4.6,0.6
+Newham,6.7,5.2,1.5
+Southwark,5.1,3.9,1.2
+Tower Hamlets,6.4,5.8,0.6
+Wandsworth,4.6,3.4,1.2
+Westminster,5.2,4.6,0.6
+Barking and Dagenham,7.3,6.8,0.5
+Barnet,5.1,5.5,-0.4
+Bexley,3.6,4.1,-0.5
+Brent,6,6.7,-0.7
+Bromley,4.5,4.9,-0.4
+Croydon,5.3,5.5,-0.2
+Ealing,4.8,5,-0.2
+Enfield,4.9,6.3,-1.4
+Greenwich,5.4,4.5,0.9
+Harrow,4.5,4.8,-0.3
+Havering,3.9,4.3,-0.4
+Hillingdon,4.7,6.9,-2.2
+Hounslow,5.4,4.7,0.7
+Kingston upon Thames,3.7,3.6,0.1
+Merton,4.1,4.8,-0.7
+Redbridge,5.9,5,0.9
+Richmond upon Thames,4.1,3.9,0.2
+Sutton,4.4,4.6,-0.2
+Waltham Forest,4.2,5.5,-1.3
+London,5.1,4.8,0.3
+,,,
+Note: Data are based on annual October to September figures. Unemployment rate is the proportion of the working age economically active population.,,,
+"Data source: Model-based estimates of unemployment, via NOMIS, ONS",,,
+Chart source: London's Poverty Profile 2025,,,
+"London's Poverty Profile is created by charitable funder Trust for London, and economic and public policy consultancy, WPI Economics",,,
+http://www.trustforlondon.org.uk/data,,,
